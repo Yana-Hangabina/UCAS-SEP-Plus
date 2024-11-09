@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2.5
 // @description  UCAS的SEP系统自动教评，此脚本能够帮助您自动评价，支持课程评价与教师评价
-// @author       tylzh97, yhb
+// @author       tylzh97, Yana-Hangabina
 // @match        https://xkcts.ucas.ac.cn/evaluate/*
 // @license      MIT
 // @require      https://fastly.jsdelivr.net/npm/jquery@1.8.3/tmp/jquery.min.js
